@@ -1,0 +1,6 @@
+f8eb869 Added .gitignore to exclude api-keys.txt
+ac2f0a7 Added content to file_2.txt
+7a1ed5d Added content to file_1.txt
+daa1144 Update new_features.txt with 'This file has some new text.'
+68fdcc6 Update new_features.txt with 'No new features will be created.'
+d89d27c first commit

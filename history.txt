@@ -1,0 +1,51 @@
+    3  git clone git@github.com:Clemonade71/git-practice-astrad77.git
+    4  cd git-practice-astrad77
+    5  [200~git checkout -b feature-Clemonade71
+    6  git checkout -b feature-Clemonade71
+    7  git checkout -b feature-Clemonade71
+    8  git checkout feature-Clemonade71
+   10  git add .
+   11  git commit -m "THis is Aaron!"
+   12  git push origin feature-Clemonade71
+   14  git checkout main
+   15  git pull
+   16  git status
+   17  cd ~/git-practice-Clemonade71
+   18  cd "C:\Users\Aaron\stat386-blog-theme\git-practice-Clemonade71"
+   19  git log --oneline > gitlog.txt
+   20  history | grep git > history.txt
+   21  git add gitlog.txt history.txt
+   22  git commit -m "Added gitlog.txt and history.txt with Git logs and command history"
+   23  git push origin main
+   24  git push --force origin main
+   26  git log --oneline > gitlog.txt
+   27  history | grep git > history.txt
+   28  git add gitlog.txt history.txt
+   29  git commit -m "Added gitlog.txt and history.txt"
+   30  git rebase --continue
+   31  git push origin main
+   32  git status
+   33  git add -u
+   34  git rebase --continue
+   37  git add -u
+   38  git rebase --continue
+   39  git push origin main
+   40  git push --force origin main
+   41  git status
+   42  [200~git restore README.md
+   43  git restore Readme.md
+   44  git restore README.md
+   45  git restore Readme.md
+   48  git add file_1.txt
+   49  git commit -m "Added content to file_1.txt"
+   50  git add file_2.txt
+   51  git commit -m "Added content to file_2.txt"
+   52  git log --oneline
+   53  git push origin main
+   54  echo "api-keys.txt" > .gitignore
+   55  git add .gitignore
+   56  git commit -m "Added .gitignore to exclude api-keys.txt"
+   58  git status
+   60  git push origin main
+   61  git log --oneline > gitlog.txt
+   62  history | grep git > history.txt
